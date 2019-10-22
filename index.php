@@ -214,7 +214,6 @@
    			 $("html").animate({scrollTop: 0 }, 1000, "swing");
  			 });
 		});
-
 		$(window).resize(function(){
 			var w = $(window).width();
 			var x = 480;
@@ -229,7 +228,6 @@
 				});
 			};
 		});
-
 		$(function(){
 			$('#nToggle').click(function(){
 				$(".title").toggleClass('open');
@@ -240,8 +238,6 @@
 				}
 			});
 		});
-
 		</script>
 	</body>
 </html>
-
