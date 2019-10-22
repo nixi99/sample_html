@@ -125,7 +125,7 @@
 							<ul class="auth">
 								<li><a href="#">コンサル依頼の詳細</a></li>
 								<li><a href="#">Web制作依頼の詳細</a></li>
-								<li><a href="#">ライティング依頼来の詳細</a></li>
+								<li><a href="#">ライティング依頼の詳細</a></li>
 								<li><a href="#">お問合せ</a></li>
 							</ul>
 						</article>
@@ -180,7 +180,7 @@
 						<ul class="auth">
 							<li><a href="#">コンサル依頼の詳細</a></li>
 							<li><a href="#">Web制作依頼の詳細</a></li>
-							<li><a href="#">ライティング依頼来の詳細</a></li>
+							<li><a href="#">ライティング依頼の詳細</a></li>
 							<li><a href="#">お問合せ</a></li>
 						</ul>
 					</div>

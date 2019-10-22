@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 body {
 	margin: 0;
 	padding: 0;
@@ -403,7 +403,7 @@ a[href^="http:"]::after {
 		width: 100%;
 	}
 	.next {
-		margin-top: 3rem;
+		margin-top: 2.5rem;
 		text-align: center;
 	}
 	.next a, .read a{
@@ -418,12 +418,16 @@ a[href^="http:"]::after {
 	opacity: .7;
 }
 	aside {
-		margin-top: 5rem;
+		margin-top: 2.5rem;
 		width: 100%;
 		font-size: 1rem;
 	}
 	.wrap {
 		text-align: center;
+		margin-bottom: 2.5rem;
+	}
+	.arc.wrap:last-child {
+		margin-bottom: 0;
 	}
 	.fixed_btn {
 		position: static;
